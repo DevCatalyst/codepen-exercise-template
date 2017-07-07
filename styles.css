@@ -1,0 +1,17 @@
+header {
+  background: #008da8;
+  border-bottom: 1px solid #ccc;
+  padding: 20px;
+  color: #fff;
+}
+header img {
+  margin-top: -4px;
+  margin-right: 10px;
+  width: 180px;
+  float: right;
+}
+
+section {
+  color: #666;
+  padding: 20px;
+}
